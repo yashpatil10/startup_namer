@@ -10,3 +10,14 @@ tail <path to id_rsa.pub> //Add this key to your github account
 git remote add origin <ssh url.git>
 git push origin master //or main
 
+
+/*
+if you want to add more to your software then, check
+
+git status
+git add .
+git commit -m "type any message "
+git push origin master //or main
+ 
+
+*/
